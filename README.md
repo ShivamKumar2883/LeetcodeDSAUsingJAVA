@@ -42,4 +42,5 @@ Each problem is grouped by the topic/step from the A2Z sheet and includes:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivamKumar2883/LeetcodeDSAUsingJAVA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ShivamKumar2883/LeetcodeDSAUsingJAVA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
